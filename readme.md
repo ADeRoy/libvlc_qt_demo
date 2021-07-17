@@ -44,3 +44,13 @@ win32{
 测试代码见`simple_libvlc_qt_player`
 
 运行结果播放`cuc_ieschool.flv`这个视频
+
+### vlc_qt_player
+
+完成vlc的基本封装，实例程序运行如下
+
+![vlc播放器](https://img-blog.csdnimg.cn/20210208162705341.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0NTE5NDg0,size_16,color_FFFFFF,t_70)
+
+
+
+新增功能，进度可调，声音可调
