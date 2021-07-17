@@ -4,7 +4,9 @@
 - 由于VLC是完全开源的，所以我们可以获得所有的项目源码，并在此基础上进行二次开发
 
 > VLC的官网：http://www.videolan.org/
+> 
 > VLC源码下载地址：http://download.videolan.org/pub/videolan/vlc/2.2.4/
+> 
 > 测试代码参考雷神的博客：http://blog.csdn.net/leixiaohua1020/article/details/42363079
 
 ### qt配置方法
